@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Persons>
+
+<!-- Person 1 -->
+<Person>
+    <Name>
+		<First>John</First>
+		<Last>Doe</Last>
+	</Name>
+    <Credential>
+        <id>jdoe</id>
+        <password encryption = "yes">xyz</password>
+    </Credential>
+    <Phone>
+        <Work>4809650000</Work>
+        <Cell provider = "Tmobile">4801234567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+</Person>
+
+<!-- Person 2 -->
+<Person>
+    <Name>
+		<First>Mary</First>
+		<Last>Jane</Last>
+	</Name>
+    <Credential>
+        <id>mjane</id>
+        <password encryption = "yes">abc</password>
+    </Credential>
+    <Phone>
+        <Work>4808460000</Work>
+        <Cell>4804564598</Cell>
+    </Phone>
+    <Category>Friend</Category>
+</Person>
+
+<!-- Person 3 -->
+<Person>
+    <Name>
+		<First>Billy</First>
+		<Last>Bob</Last>
+	</Name>
+    <Credential>
+        <id>bbob</id>
+        <password encryption = "yes">yzx</password>
+    </Credential>
+    <Phone>
+        <Work>4803330000</Work>
+        <Cell provider = "ATT">4805556567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+</Person>
+
+<!-- Person 4 -->
+<Person>
+    <Name>
+		<First>Ann</First>
+		<Last>Carter</Last>
+	</Name>
+    <Credential>
+        <id>acart</id>
+        <password encryption = "yes">uiz</password>
+    </Credential>
+    <Phone>
+        <Work>4803630000</Work>
+        <Cell>4802314567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+</Person>
+
+<!-- Person 5 -->
+<Person>
+    <Name>
+		<First>Jim</First>
+		<Last>Shaw</Last>
+	</Name>
+    <Credential>
+        <id>jshaw</id>
+        <password encryption = "yes">fig</password>
+    </Credential>
+    <Phone>
+        <Work>4801420000</Work>
+        <Cell provider = "Verizon">4801114567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+</Person>
+
+<!-- Person 6 -->
+<Person>
+    <Name>
+		<First>Kate</First>
+		<Last>Pemly</Last>
+	</Name>
+    <Credential>
+        <id>kpemly</id>
+        <password encryption = "yes">abab</password>
+    </Credential>
+    <Phone>
+        <Work>4804440000</Work>
+        <Cell>4809804567</Cell>
+    </Phone>
+    <Category>Family</Category>
+</Person>
+
+<!-- Person 7 -->
+<Person>
+    <Name>
+		<First>Ben</First>
+		<Last>Pemly</Last>
+	</Name>
+    <Credential>
+        <id>bpemly</id>
+        <password encryption = "yes">kekea</password>
+    </Credential>
+    <Phone>
+        <Work>4809090000</Work>
+        <Cell provider = "Sprint">4805354598</Cell>
+    </Phone>
+    <Category>Family</Category>
+</Person>
+
+<!-- Person 8 -->
+<Person>
+    <Name>
+		<First>Cary</First>
+		<Last>Pemly</Last>
+	</Name>
+    <Credential>
+        <id>cpemly</id>
+        <password encryption = "yes">wotudo</password>
+    </Credential>
+    <Phone>
+        <Work>4801330000</Work>
+        <Cell>4808996567</Cell>
+    </Phone>
+    <Category>Family</Category>
+</Person>
+
+<!-- Person 9 -->
+<Person>
+    <Name>
+		<First>Thad</First>
+		<Last>Pemly</Last>
+	</Name>
+    <Credential>
+        <id>tpemly</id>
+        <password encryption = "yes">alleyoop</password>
+    </Credential>
+    <Phone>
+        <Work>4809970000</Work>
+        <Cell provider = "Verizon">4802524567</Cell>
+    </Phone>
+    <Category>Family</Category>
+</Person>
+
+<!-- Person 10 -->
+<Person>
+    <Name>
+		<First>Gabby</First>
+		<Last>Pemly</Last>
+	</Name>
+    <Credential>
+        <id>gpemly</id>
+        <password encryption = "yes">lorna</password>
+    </Credential>
+    <Phone>
+        <Work>4806670000</Work>
+        <Cell>4807734567</Cell>
+    </Phone>
+    <Category>Family</Category>
+</Person>
+
+<!-- Person 11 -->
+<Person>
+    <Name>
+		<First>Benson</First>
+		<Last>Connely</Last>
+	</Name>
+    <Credential>
+        <id>bconnely</id>
+        <password encryption = "yes">test321</password>
+    </Credential>
+    <Phone>
+        <Work>4808890000</Work>
+        <Cell provider = "TMobile">4807024567</Cell>
+    </Phone>
+    <Category>Work</Category>
+</Person>
+
+<!-- Person 12 -->
+<Person>
+    <Name>
+		<First>Emily</First>
+		<Last>Evans</Last>
+	</Name>
+    <Credential>
+        <id>eevans</id>
+        <password encryption = "yes">gottem36</password>
+    </Credential>
+    <Phone>
+        <Work>4809110000</Work>
+        <Cell>4803774598</Cell>
+    </Phone>
+    <Category>Work</Category>
+</Person>
+
+<!-- Person 13 -->
+<Person>
+    <Name>
+		<First>Chris</First>
+		<Last>Kekson</Last>
+	</Name>
+    <Credential>
+        <id>ckekson</id>
+        <password encryption = "yes">oiwotu90</password>
+    </Credential>
+    <Phone>
+        <Work>4806160000</Work>
+        <Cell provider = "ATT">4806866567</Cell>
+    </Phone>
+    <Category>Work</Category>
+</Person>
+
+<!-- Person 14 -->
+<Person>
+    <Name>
+		<First>Amelia</First>
+		<Last>Adams</Last>
+	</Name>
+    <Credential>
+        <id>aadams</id>
+        <password encryption = "yes">abakaneeser</password>
+    </Credential>
+    <Phone>
+        <Work>4809960000</Work>
+        <Cell>4808054567</Cell>
+    </Phone>
+    <Category>Work</Category>
+</Person>
+
+<!-- Person 15 -->
+<Person>
+    <Name>
+		<First>Chad</First>
+		<Last>Masters</Last>
+	</Name>
+    <Credential>
+        <id>cmasters</id>
+        <password encryption = "yes">kingding59</password>
+    </Credential>
+    <Phone>
+        <Work>4807880000</Work>
+        <Cell>4806194567</Cell>
+    </Phone>
+    <Category>Work</Category>
+</Person>
+<!-- End -->
+</Persons>
